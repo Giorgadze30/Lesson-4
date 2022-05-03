@@ -1,0 +1,13 @@
+		ul, ol, a{
+				list-style-type: none;
+				text-decoration: none;
+				color: #fff;
+		}
+        
+        body{
+            background-color: blue;
+        }
+       h2{
+            font-size: 28px;
+            color: #fff;
+        }
